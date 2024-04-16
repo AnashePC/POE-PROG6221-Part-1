@@ -1,0 +1,14 @@
+C:\Users\obewo\source\repos\Cooking\bin\Debug\net8.0\Cooking.exe
+C:\Users\obewo\source\repos\Cooking\bin\Debug\net8.0\Cooking.deps.json
+C:\Users\obewo\source\repos\Cooking\bin\Debug\net8.0\Cooking.runtimeconfig.json
+C:\Users\obewo\source\repos\Cooking\bin\Debug\net8.0\Cooking.dll
+C:\Users\obewo\source\repos\Cooking\bin\Debug\net8.0\Cooking.pdb
+C:\Users\obewo\source\repos\Cooking\obj\Debug\net8.0\Cooking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obewo\source\repos\Cooking\obj\Debug\net8.0\Cooking.AssemblyInfoInputs.cache
+C:\Users\obewo\source\repos\Cooking\obj\Debug\net8.0\Cooking.AssemblyInfo.cs
+C:\Users\obewo\source\repos\Cooking\obj\Debug\net8.0\Cooking.csproj.CoreCompileInputs.cache
+C:\Users\obewo\source\repos\Cooking\obj\Debug\net8.0\Cooking.dll
+C:\Users\obewo\source\repos\Cooking\obj\Debug\net8.0\refint\Cooking.dll
+C:\Users\obewo\source\repos\Cooking\obj\Debug\net8.0\Cooking.pdb
+C:\Users\obewo\source\repos\Cooking\obj\Debug\net8.0\Cooking.genruntimeconfig.cache
+C:\Users\obewo\source\repos\Cooking\obj\Debug\net8.0\ref\Cooking.dll

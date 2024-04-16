@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ktIy00SOMWVGf/hAP6qE4RqkwXfjZQf1k3FJPPfl3MIscgmiaFLmLAgieTwycKVDxYThAODcSSeAyOsLu61R2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\obewo\\source\\repos\\Cooking\\Cooking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\obewo\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.2\\microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512",
+    "C:\\Users\\obewo\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\obewo\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
